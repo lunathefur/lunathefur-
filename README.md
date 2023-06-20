@@ -1,4 +1,4 @@
-                  ![AshamedPortlyEasternnewt-size_restricted](https://github.com/Fluffyzwz/fluffyzwz/assets/85907829/43afa628-824d-4704-b268-715cf9a9aa81)
+![AshamedPortlyEasternnewt-size_restricted](https://github.com/Fluffyzwz/fluffyzwz/assets/85907829/43afa628-824d-4704-b268-715cf9a9aa81)
 
 <h1 align="center">Hi 👋, I'm fluffy</h1>
 <h3 align="center">A javascript, python, and web developer from the United States Of America.</h3>
