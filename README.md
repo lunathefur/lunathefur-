@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=fluffyzwz&show_icons=true&locale=en](https://github.com/Fluffyzwz/fluffyzwz/assets/85907829/43afa628-824d-4704-b268-715cf9a9aa81)" alt="fluffyzwz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fluffyzwz&show_icons=true&locale=en](https://github.com/Fluffyzwz/fluffyzwz/assets/85907829/43afa628-824d-4704-b268-715cf9a9aa81" alt="fluffyzwz" /></p>
 
 <h1 align="center">Hi 👋, I'm fluffy</h1>
 <h3 align="center">A javascript, python, and web developer from the United States Of America.</h3>
