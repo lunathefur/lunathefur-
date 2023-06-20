@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://thumbs.gfycat.com/AshamedPortlyEasternnewt-size_restricted.gif" height=300 width=900 alt="fluffyzwz"/></p>
+<p>&nbsp;<img align="center" src="https://thumbs.gfycat.com/AshamedPortlyEasternnewt-size_restricted.gif" height=900 width=900 alt="fluffyzwz"/></p>
 
 <h1 align="center">Hi 👋, I'm fluffy</h1>
 <h3 align="center">A javascript, python, and web developer from the United States Of America.</h3>
