@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="![image](https://github.com/Fluffyzwz/fluffyzwz/assets/85907829/23e5dfa0-0c06-4d45-9803-57ffe1c48392)" alt="fluffyzwz" /></p>
+<p>&nbsp;<img align="center" src="https://thumbs.gfycat.com/AshamedPortlyEasternnewt-size_restricted.gif" alt="fluffyzwz" /></p>
 
 <h1 align="center">Hi 👋, I'm fluffy</h1>
 <h3 align="center">A javascript, python, and web developer from the United States Of America.</h3>
