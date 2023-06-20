@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fluffytheproto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fluffytheproto" height="30" width="40" /></a>
-<a href="https://instagram.com/fluffy.knows.where.u.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fluffy.knows.where.u.live" height="30" width="40" /></a>
+<a href="https://instagram.com/fluffy.i.know.where.u.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fluffy.i.know.where.u.live" height="30" width="40" /></a>
 <a href="https://discord.gg/fluffer#0370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fluffer#0370" height="30" width="40" /></a>
 </p>
 
