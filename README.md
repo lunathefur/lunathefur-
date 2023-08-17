@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@fluffytheproto" target="blank"><img src="https://img.shields.io/twitter/follow/@fluffytheproto?logo=twitter&style=for-the-badge" alt="@fluffytheproto" /></a> </p>
 
-- 🔭 I’m currently working on [Kanye West OS](https://github.com/Kanye-West-OS)
+- 🔭 I’m currently working on [Eterance](https://github.com/Eterance-Group)
 
 - 🌱 I’m currently learning **Rust**
 
