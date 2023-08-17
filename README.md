@@ -1,4 +1,6 @@
-<p>&nbsp;<img align="center" src="https://media.tenor.com/cphBqP2JN8oAAAAC/chief-keef-stfu.gif" height=500 width=900 alt="fluffyzwz"/></p>
+<!--<p>&nbsp;<img align="center" src="https://media.tenor.com/cphBqP2JN8oAAAAC/chief-keef-stfu.gif" height=500 width=900 alt="fluffyzwz"/></p>-->
+<div class="tenor-gif-embed" data-postid="24857962" data-share-method="host" data-aspect-ratio="0.909375" data-width="100%"><a href="https://tenor.com/view/chief-keef-stfu-gif-24857962">Chief Keef Stfu GIF</a>from <a href="https://tenor.com/search/chief+keef-gifs">Chief Keef GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <h1 align="center">Hi 👋, I'm fluffy</h1>
 <h3 align="center">A javascript, python, and web developer from the United States Of America.</h3>
