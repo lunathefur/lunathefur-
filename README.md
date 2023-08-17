@@ -1,4 +1,4 @@
-<!--<p>&nbsp;<img align="center" src="https://media.tenor.com/cphBqP2JN8oAAAAC/chief-keef-stfu.gif" height=500 width=900 alt="fluffyzwz"/></p>-->
+![chief-keef-stfu](https://github.com/Fluffyzwz/fluffyzwz/assets/85907829/e5a27169-af59-4650-b228-012c3a3a13c8)
 
 <h1 align="center">Hi 👋, I'm fluffy</h1>
 <h3 align="center">A javascript, python, and web developer from the United States Of America.</h3>
