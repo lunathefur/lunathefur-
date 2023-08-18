@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **Discord > fluffer#0370**
+- 📫 How to reach me **Discord > fluf.fy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
