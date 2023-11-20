@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Allure and I'm a Software Dev, from The United States Of America</h2>
+<h2 align="center">Hi 👋! My name is Allure and I'm a 13 Year Old Developer, from The United States Of America</h2>
 
 ###
 
