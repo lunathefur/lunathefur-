@@ -18,14 +18,18 @@
 
 ###
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@starcraft66?theme=gelbooru" />
+</p>
+
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCkcRUIdiEeQ35HcP5mCjRsA" target="_blank">
+  <a href="https://www.youtube.com/channel/UC2bHx7WttkV58sTwqDlhobA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://twitter.com/fluffytheproto" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://discord.gg/N4aJf4yYcW" target="_blank">
+  <a href="https://discord.gg/ewvAKywe8n" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
