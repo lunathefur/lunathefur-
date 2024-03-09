@@ -4,9 +4,6 @@
     </a>
 </p>
 
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -22,11 +19,6 @@
 </div>
 
 ###
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@lunathefur?theme=gelbooru" />
-</p>
-
 <div align="center">
   <a href="https://www.youtube.com/channel/UC2bHx7WttkV58sTwqDlhobA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
