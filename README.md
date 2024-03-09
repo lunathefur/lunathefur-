@@ -1,4 +1,9 @@
-<h2 align="center">Hi 👋! My name is luna and I'm a 13 Year Old Developer, from The United States Of America</h2>
+<p align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=314am47suwecnunmd525qdd57x7a&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=314am47suwecnunmd525qdd57x7a&cover_image=true&theme=default&show_offline=true&background_color=transparent&interchange=true&bar_color=cba6f7&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
+    </a>
+</p>
+
 
 ###
 
