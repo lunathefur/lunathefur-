@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=314am47suwecnunmd525qdd57x7a&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=314am47suwecnunmd525qdd57x7a&cover_image=true&theme=default&show_offline=true&background_color=transparent&interchange=true&bar_color=cba6f7&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
-    </a>
-</p>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
