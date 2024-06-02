@@ -8,7 +8,6 @@
    💻 JS • TS • Rust
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     ![loonalol's Stats](https://github-readme-stats.vercel.app/api?username=loonalol&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
